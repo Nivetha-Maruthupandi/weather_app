@@ -1,4 +1,4 @@
-**Weather Now**
+# weather Now
 A simple and beautiful app to check current weather conditions.
 
 ### What is this?
